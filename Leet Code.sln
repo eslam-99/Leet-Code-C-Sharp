@@ -71,6 +71,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0141. Linked List Cycle (Ea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0144. Binary Tree Preorder Traversal (Easy)", "0144. Binary Tree Preorder Traversal (Easy)\0144. Binary Tree Preorder Traversal (Easy).csproj", "{DE177BD2-81BE-4249-AE5A-E151EAFA0622}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0145. Binary Tree Postorder Traversal (Easy)", "0145. Binary Tree Postorder Traversal (Easy)\0145. Binary Tree Postorder Traversal (Easy).csproj", "{C0E095B0-5B08-4BD6-BB3F-2B50403F754D}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -213,6 +215,10 @@ Global
 		{DE177BD2-81BE-4249-AE5A-E151EAFA0622}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE177BD2-81BE-4249-AE5A-E151EAFA0622}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE177BD2-81BE-4249-AE5A-E151EAFA0622}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0E095B0-5B08-4BD6-BB3F-2B50403F754D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0E095B0-5B08-4BD6-BB3F-2B50403F754D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0E095B0-5B08-4BD6-BB3F-2B50403F754D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0E095B0-5B08-4BD6-BB3F-2B50403F754D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
