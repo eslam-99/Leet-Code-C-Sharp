@@ -17,7 +17,7 @@ public class Solution
     private uint reverseBits_V2(uint n)
     {
         uint m = 0;
-        for (int i = 0; i < 4; i++)
+        for (int i = 0; i < 32; i++)
         {
             m <<= 1;
             m |= n & 1;

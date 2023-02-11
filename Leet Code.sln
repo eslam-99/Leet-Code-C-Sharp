@@ -85,6 +85,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0171. Excel Sheet Column Nu
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0190. Reverse Bits (Easy)", "0190. Reverse Bits (Easy)\0190. Reverse Bits (Easy).csproj", "{6DE84A21-71F3-49B2-85AE-B3F6132645D0}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0191. Number of 1 Bits (Easy)", "0191. Number of 1 Bits (Easy)\0191. Number of 1 Bits (Easy).csproj", "{267BE917-7267-4E4E-9DD6-CA3A1C7B4E00}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -255,6 +257,10 @@ Global
 		{6DE84A21-71F3-49B2-85AE-B3F6132645D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6DE84A21-71F3-49B2-85AE-B3F6132645D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6DE84A21-71F3-49B2-85AE-B3F6132645D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{267BE917-7267-4E4E-9DD6-CA3A1C7B4E00}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{267BE917-7267-4E4E-9DD6-CA3A1C7B4E00}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{267BE917-7267-4E4E-9DD6-CA3A1C7B4E00}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{267BE917-7267-4E4E-9DD6-CA3A1C7B4E00}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
