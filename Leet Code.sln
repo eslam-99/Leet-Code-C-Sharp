@@ -97,6 +97,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0206. Reverse Linked List (
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0217. Contains Duplicate (Easy)", "0217. Contains Duplicate (Easy)\0217. Contains Duplicate (Easy).csproj", "{74A73448-27D0-4CBC-89E6-695569981CCF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0219. Contains Duplicate II (Easy)", "0219. Contains Duplicate II (Easy)\0219. Contains Duplicate II (Easy).csproj", "{7DE2793C-67F0-4492-8617-BF7DE28285C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -291,6 +293,10 @@ Global
 		{74A73448-27D0-4CBC-89E6-695569981CCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{74A73448-27D0-4CBC-89E6-695569981CCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{74A73448-27D0-4CBC-89E6-695569981CCF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DE2793C-67F0-4492-8617-BF7DE28285C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DE2793C-67F0-4492-8617-BF7DE28285C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DE2793C-67F0-4492-8617-BF7DE28285C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DE2793C-67F0-4492-8617-BF7DE28285C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
