@@ -93,6 +93,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0203. Remove Linked List El
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0205. Isomorphic Strings (Easy)", "0205. Isomorphic Strings (Easy)\0205. Isomorphic Strings (Easy).csproj", "{F8F6BEE0-68D9-4EB1-9270-BE07EDD303D6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0206. Reverse Linked List (Easy)", "0206. Reverse Linked List (Easy)\0206. Reverse Linked List (Easy).csproj", "{CF915772-7950-4DE8-9E7F-30D50C8CED28}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -279,6 +281,10 @@ Global
 		{F8F6BEE0-68D9-4EB1-9270-BE07EDD303D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F8F6BEE0-68D9-4EB1-9270-BE07EDD303D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F8F6BEE0-68D9-4EB1-9270-BE07EDD303D6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CF915772-7950-4DE8-9E7F-30D50C8CED28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CF915772-7950-4DE8-9E7F-30D50C8CED28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CF915772-7950-4DE8-9E7F-30D50C8CED28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CF915772-7950-4DE8-9E7F-30D50C8CED28}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
