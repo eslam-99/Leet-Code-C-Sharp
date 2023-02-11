@@ -103,6 +103,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0225. Implement Stack using
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0226. Invert Binary Tree (Easy)", "0226. Invert Binary Tree (Easy)\0226. Invert Binary Tree (Easy).csproj", "{F07F9DDC-EE9D-49D4-86D3-27192A8F207F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0228. Summary Ranges (Easy)", "0228. Summary Ranges (Easy)\0228. Summary Ranges (Easy).csproj", "{9DE599D7-E234-4279-B155-CB09B9C21480}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -309,6 +311,10 @@ Global
 		{F07F9DDC-EE9D-49D4-86D3-27192A8F207F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F07F9DDC-EE9D-49D4-86D3-27192A8F207F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F07F9DDC-EE9D-49D4-86D3-27192A8F207F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9DE599D7-E234-4279-B155-CB09B9C21480}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9DE599D7-E234-4279-B155-CB09B9C21480}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9DE599D7-E234-4279-B155-CB09B9C21480}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9DE599D7-E234-4279-B155-CB09B9C21480}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
