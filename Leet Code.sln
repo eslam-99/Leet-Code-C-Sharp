@@ -109,6 +109,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2562. Find the Array Concat
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1523. Count Odd Numbers in an Interval Range (Easy)", "1523. Count Odd Numbers in an Interval Range (Easy)\1523. Count Odd Numbers in an Interval Range (Easy).csproj", "{AE6A418B-5785-4A47-8E27-19EEA52D65D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)", "1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)\1491. Average Salary Excluding the Minimum and Maximum Salary (Easy).csproj", "{C7DBEF04-264A-4D73-9085-0CC864898BE6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -327,6 +329,10 @@ Global
 		{AE6A418B-5785-4A47-8E27-19EEA52D65D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AE6A418B-5785-4A47-8E27-19EEA52D65D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AE6A418B-5785-4A47-8E27-19EEA52D65D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C7DBEF04-264A-4D73-9085-0CC864898BE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C7DBEF04-264A-4D73-9085-0CC864898BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C7DBEF04-264A-4D73-9085-0CC864898BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C7DBEF04-264A-4D73-9085-0CC864898BE6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
