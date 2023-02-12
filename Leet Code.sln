@@ -81,29 +81,31 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0168. Excel Sheet Column Ti
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0169. Majority Element (Easy)", "0169. Majority Element (Easy)\0169. Majority Element (Easy).csproj", "{49F11941-1B9D-41F0-9667-E3C2503D0B56}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0171. Excel Sheet Column Number (Easy)", "0171. Excel Sheet Column Number (Easy)\0171. Excel Sheet Column Number (Easy).csproj", "{BA6D5532-7574-4214-BEC9-F88E5D5F2FFD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0171. Excel Sheet Column Number (Easy)", "0171. Excel Sheet Column Number (Easy)\0171. Excel Sheet Column Number (Easy).csproj", "{BA6D5532-7574-4214-BEC9-F88E5D5F2FFD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0190. Reverse Bits (Easy)", "0190. Reverse Bits (Easy)\0190. Reverse Bits (Easy).csproj", "{6DE84A21-71F3-49B2-85AE-B3F6132645D0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0190. Reverse Bits (Easy)", "0190. Reverse Bits (Easy)\0190. Reverse Bits (Easy).csproj", "{6DE84A21-71F3-49B2-85AE-B3F6132645D0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0191. Number of 1 Bits (Easy)", "0191. Number of 1 Bits (Easy)\0191. Number of 1 Bits (Easy).csproj", "{267BE917-7267-4E4E-9DD6-CA3A1C7B4E00}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0191. Number of 1 Bits (Easy)", "0191. Number of 1 Bits (Easy)\0191. Number of 1 Bits (Easy).csproj", "{267BE917-7267-4E4E-9DD6-CA3A1C7B4E00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0202. Happy Number (Easy)", "0202. Happy Number (Easy)\0202. Happy Number (Easy).csproj", "{B8157BDB-DD54-4FBA-9F51-BA1FF749CDF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0202. Happy Number (Easy)", "0202. Happy Number (Easy)\0202. Happy Number (Easy).csproj", "{B8157BDB-DD54-4FBA-9F51-BA1FF749CDF3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0203. Remove Linked List Elements (Easy)", "0203. Remove Linked List Elements (Easy)\0203. Remove Linked List Elements (Easy).csproj", "{B34712E5-6237-46B9-9C84-BCFD3EEC30AD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0203. Remove Linked List Elements (Easy)", "0203. Remove Linked List Elements (Easy)\0203. Remove Linked List Elements (Easy).csproj", "{B34712E5-6237-46B9-9C84-BCFD3EEC30AD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0205. Isomorphic Strings (Easy)", "0205. Isomorphic Strings (Easy)\0205. Isomorphic Strings (Easy).csproj", "{F8F6BEE0-68D9-4EB1-9270-BE07EDD303D6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0205. Isomorphic Strings (Easy)", "0205. Isomorphic Strings (Easy)\0205. Isomorphic Strings (Easy).csproj", "{F8F6BEE0-68D9-4EB1-9270-BE07EDD303D6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0206. Reverse Linked List (Easy)", "0206. Reverse Linked List (Easy)\0206. Reverse Linked List (Easy).csproj", "{CF915772-7950-4DE8-9E7F-30D50C8CED28}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0206. Reverse Linked List (Easy)", "0206. Reverse Linked List (Easy)\0206. Reverse Linked List (Easy).csproj", "{CF915772-7950-4DE8-9E7F-30D50C8CED28}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0217. Contains Duplicate (Easy)", "0217. Contains Duplicate (Easy)\0217. Contains Duplicate (Easy).csproj", "{74A73448-27D0-4CBC-89E6-695569981CCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0217. Contains Duplicate (Easy)", "0217. Contains Duplicate (Easy)\0217. Contains Duplicate (Easy).csproj", "{74A73448-27D0-4CBC-89E6-695569981CCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0219. Contains Duplicate II (Easy)", "0219. Contains Duplicate II (Easy)\0219. Contains Duplicate II (Easy).csproj", "{7DE2793C-67F0-4492-8617-BF7DE28285C2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0219. Contains Duplicate II (Easy)", "0219. Contains Duplicate II (Easy)\0219. Contains Duplicate II (Easy).csproj", "{7DE2793C-67F0-4492-8617-BF7DE28285C2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0225. Implement Stack using Queues (Easy)", "0225. Implement Stack using Queues (Easy)\0225. Implement Stack using Queues (Easy).csproj", "{8BDD4125-808F-4696-A07F-12092313366D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0225. Implement Stack using Queues (Easy)", "0225. Implement Stack using Queues (Easy)\0225. Implement Stack using Queues (Easy).csproj", "{8BDD4125-808F-4696-A07F-12092313366D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0226. Invert Binary Tree (Easy)", "0226. Invert Binary Tree (Easy)\0226. Invert Binary Tree (Easy).csproj", "{F07F9DDC-EE9D-49D4-86D3-27192A8F207F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0226. Invert Binary Tree (Easy)", "0226. Invert Binary Tree (Easy)\0226. Invert Binary Tree (Easy).csproj", "{F07F9DDC-EE9D-49D4-86D3-27192A8F207F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0228. Summary Ranges (Easy)", "0228. Summary Ranges (Easy)\0228. Summary Ranges (Easy).csproj", "{9DE599D7-E234-4279-B155-CB09B9C21480}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0228. Summary Ranges (Easy)", "0228. Summary Ranges (Easy)\0228. Summary Ranges (Easy).csproj", "{9DE599D7-E234-4279-B155-CB09B9C21480}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2562. Find the Array Concatenation Value (Easy)", "2562. Find the Array Concatenation Value (Easy)\2562. Find the Array Concatenation Value (Easy).csproj", "{5D296C45-401D-4714-B3C9-901816886ED3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -315,6 +317,10 @@ Global
 		{9DE599D7-E234-4279-B155-CB09B9C21480}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9DE599D7-E234-4279-B155-CB09B9C21480}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9DE599D7-E234-4279-B155-CB09B9C21480}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D296C45-401D-4714-B3C9-901816886ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D296C45-401D-4714-B3C9-901816886ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D296C45-401D-4714-B3C9-901816886ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D296C45-401D-4714-B3C9-901816886ED3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
