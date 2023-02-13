@@ -105,11 +105,15 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0226. Invert Binary Tree (E
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0228. Summary Ranges (Easy)", "0228. Summary Ranges (Easy)\0228. Summary Ranges (Easy).csproj", "{9DE599D7-E234-4279-B155-CB09B9C21480}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2562. Find the Array Concatenation Value (Easy)", "2562. Find the Array Concatenation Value (Easy)\2562. Find the Array Concatenation Value (Easy).csproj", "{5D296C45-401D-4714-B3C9-901816886ED3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2562. Find the Array Concatenation Value (Easy)", "2562. Find the Array Concatenation Value (Easy)\2562. Find the Array Concatenation Value (Easy).csproj", "{5D296C45-401D-4714-B3C9-901816886ED3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1523. Count Odd Numbers in an Interval Range (Easy)", "1523. Count Odd Numbers in an Interval Range (Easy)\1523. Count Odd Numbers in an Interval Range (Easy).csproj", "{AE6A418B-5785-4A47-8E27-19EEA52D65D3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1523. Count Odd Numbers in an Interval Range (Easy)", "1523. Count Odd Numbers in an Interval Range (Easy)\1523. Count Odd Numbers in an Interval Range (Easy).csproj", "{AE6A418B-5785-4A47-8E27-19EEA52D65D3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)", "1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)\1491. Average Salary Excluding the Minimum and Maximum Salary (Easy).csproj", "{C7DBEF04-264A-4D73-9085-0CC864898BE6}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)", "1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)\1491. Average Salary Excluding the Minimum and Maximum Salary (Easy).csproj", "{C7DBEF04-264A-4D73-9085-0CC864898BE6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1281. Subtract the Product and Sum of Digits of an Integer (Easy)", "1281. Subtract the Product and Sum of Digits of an Integer (Easy)\1281. Subtract the Product and Sum of Digits of an Integer (Easy).csproj", "{113CB8EB-DBB0-46F1-9F5E-22BCFC98C7A9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2477. Minimum Fuel Cost to Report to the Capital (Med)", "2477. Minimum Fuel Cost to Report to the Capital (Med)\2477. Minimum Fuel Cost to Report to the Capital (Med).csproj", "{4693E042-A84F-4675-ACD2-2DB7D262B77B}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +337,14 @@ Global
 		{C7DBEF04-264A-4D73-9085-0CC864898BE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C7DBEF04-264A-4D73-9085-0CC864898BE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C7DBEF04-264A-4D73-9085-0CC864898BE6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{113CB8EB-DBB0-46F1-9F5E-22BCFC98C7A9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{113CB8EB-DBB0-46F1-9F5E-22BCFC98C7A9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{113CB8EB-DBB0-46F1-9F5E-22BCFC98C7A9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{113CB8EB-DBB0-46F1-9F5E-22BCFC98C7A9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4693E042-A84F-4675-ACD2-2DB7D262B77B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4693E042-A84F-4675-ACD2-2DB7D262B77B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4693E042-A84F-4675-ACD2-2DB7D262B77B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4693E042-A84F-4675-ACD2-2DB7D262B77B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
