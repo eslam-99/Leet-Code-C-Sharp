@@ -119,6 +119,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0053. Maximum Subarray (Med
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0976. Largest Perimeter Triangle (Easy)", "0976. Largest Perimeter Triangle (Easy)\0976. Largest Perimeter Triangle (Easy).csproj", "{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)", "1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)\1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy).csproj", "{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -357,6 +359,10 @@ Global
 		{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
