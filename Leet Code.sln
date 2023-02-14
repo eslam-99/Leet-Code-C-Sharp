@@ -111,11 +111,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1523. Count Odd Numbers in 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)", "1491. Average Salary Excluding the Minimum and Maximum Salary (Easy)\1491. Average Salary Excluding the Minimum and Maximum Salary (Easy).csproj", "{C7DBEF04-264A-4D73-9085-0CC864898BE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1281. Subtract the Product and Sum of Digits of an Integer (Easy)", "1281. Subtract the Product and Sum of Digits of an Integer (Easy)\1281. Subtract the Product and Sum of Digits of an Integer (Easy).csproj", "{113CB8EB-DBB0-46F1-9F5E-22BCFC98C7A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1281. Subtract the Product and Sum of Digits of an Integer (Easy)", "1281. Subtract the Product and Sum of Digits of an Integer (Easy)\1281. Subtract the Product and Sum of Digits of an Integer (Easy).csproj", "{113CB8EB-DBB0-46F1-9F5E-22BCFC98C7A9}"
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2477. Minimum Fuel Cost to Report to the Capital (Med)", "2477. Minimum Fuel Cost to Report to the Capital (Med)\2477. Minimum Fuel Cost to Report to the Capital (Med).csproj", "{4693E042-A84F-4675-ACD2-2DB7D262B77B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0053. Maximum Subarray (Med)", "0053. Maximum Subarray (Med)\0053. Maximum Subarray (Med).csproj", "{5F8BF7F7-1E49-407D-BDE3-D41F144EF0E4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0053. Maximum Subarray (Med)", "0053. Maximum Subarray (Med)\0053. Maximum Subarray (Med).csproj", "{5F8BF7F7-1E49-407D-BDE3-D41F144EF0E4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0976. Largest Perimeter Triangle (Easy)", "0976. Largest Perimeter Triangle (Easy)\0976. Largest Perimeter Triangle (Easy).csproj", "{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -351,6 +353,10 @@ Global
 		{5F8BF7F7-1E49-407D-BDE3-D41F144EF0E4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F8BF7F7-1E49-407D-BDE3-D41F144EF0E4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F8BF7F7-1E49-407D-BDE3-D41F144EF0E4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
