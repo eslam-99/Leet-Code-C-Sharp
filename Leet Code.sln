@@ -123,6 +123,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1779. Find Nearest Point Th
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0989. Add to Array-Form of Integer (Easy)", "0989. Add to Array-Form of Integer (Easy)\0989. Add to Array-Form of Integer (Easy).csproj", "{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822. Sign of the Product of an Array (Easy)", "1822. Sign of the Product of an Array (Easy)\1822. Sign of the Product of an Array (Easy).csproj", "{AE8280CB-1977-4502-BAAF-156F2DB3624C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -369,6 +371,10 @@ Global
 		{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AE8280CB-1977-4502-BAAF-156F2DB3624C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AE8280CB-1977-4502-BAAF-156F2DB3624C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AE8280CB-1977-4502-BAAF-156F2DB3624C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AE8280CB-1977-4502-BAAF-156F2DB3624C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
