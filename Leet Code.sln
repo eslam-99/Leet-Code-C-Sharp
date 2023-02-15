@@ -127,6 +127,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822. Sign of the Product o
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1502. Can Make Arithmetic Progression From Sequence (Easy)", "1502. Can Make Arithmetic Progression From Sequence (Easy)\1502. Can Make Arithmetic Progression From Sequence (Easy).csproj", "{8627F03F-5155-4C6F-AFEF-C92FC073F7B3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1790. Check if One String Swap Can Make Strings Equal (Easy)", "1790. Check if One String Swap Can Make Strings Equal (Easy)\1790. Check if One String Swap Can Make Strings Equal (Easy).csproj", "{4963EB9E-7075-43C3-BC01-172F2ADC505C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -381,6 +383,10 @@ Global
 		{8627F03F-5155-4C6F-AFEF-C92FC073F7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8627F03F-5155-4C6F-AFEF-C92FC073F7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8627F03F-5155-4C6F-AFEF-C92FC073F7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4963EB9E-7075-43C3-BC01-172F2ADC505C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4963EB9E-7075-43C3-BC01-172F2ADC505C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4963EB9E-7075-43C3-BC01-172F2ADC505C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4963EB9E-7075-43C3-BC01-172F2ADC505C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
