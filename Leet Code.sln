@@ -117,9 +117,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2477. Minimum Fuel Cost to 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0053. Maximum Subarray (Med)", "0053. Maximum Subarray (Med)\0053. Maximum Subarray (Med).csproj", "{5F8BF7F7-1E49-407D-BDE3-D41F144EF0E4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0976. Largest Perimeter Triangle (Easy)", "0976. Largest Perimeter Triangle (Easy)\0976. Largest Perimeter Triangle (Easy).csproj", "{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0976. Largest Perimeter Triangle (Easy)", "0976. Largest Perimeter Triangle (Easy)\0976. Largest Perimeter Triangle (Easy).csproj", "{07C9D7DB-6C64-40DA-9504-7BBCF65F476F}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)", "1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)\1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy).csproj", "{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)", "1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)\1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy).csproj", "{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0989. Add to Array-Form of Integer (Easy)", "0989. Add to Array-Form of Integer (Easy)\0989. Add to Array-Form of Integer (Easy).csproj", "{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -363,6 +365,10 @@ Global
 		{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
