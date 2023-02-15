@@ -131,6 +131,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1790. Check if One String S
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0350. Intersection of Two Arrays II (Easy)", "0350. Intersection of Two Arrays II (Easy)\0350. Intersection of Two Arrays II (Easy).csproj", "{94753534-AE42-4D52-B49B-B601A082E835}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0011. Container With Most Water (Med)", "0011. Container With Most Water (Med)\0011. Container With Most Water (Med).csproj", "{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -393,6 +395,10 @@ Global
 		{94753534-AE42-4D52-B49B-B601A082E835}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{94753534-AE42-4D52-B49B-B601A082E835}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{94753534-AE42-4D52-B49B-B601A082E835}.Release|Any CPU.Build.0 = Release|Any CPU
+		{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
