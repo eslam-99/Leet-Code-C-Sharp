@@ -121,17 +121,21 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0976. Largest Perimeter Tri
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)", "1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy)\1779. Find Nearest Point That Has the Same X or Y Coordinate (Easy).csproj", "{D0CA05D9-C00D-4DE0-A7F6-47CE46ECAD22}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0989. Add to Array-Form of Integer (Easy)", "0989. Add to Array-Form of Integer (Easy)\0989. Add to Array-Form of Integer (Easy).csproj", "{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0989. Add to Array-Form of Integer (Easy)", "0989. Add to Array-Form of Integer (Easy)\0989. Add to Array-Form of Integer (Easy).csproj", "{3BEC561F-3EA3-4D94-9E14-E12CC8A9932D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1822. Sign of the Product of an Array (Easy)", "1822. Sign of the Product of an Array (Easy)\1822. Sign of the Product of an Array (Easy).csproj", "{AE8280CB-1977-4502-BAAF-156F2DB3624C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1822. Sign of the Product of an Array (Easy)", "1822. Sign of the Product of an Array (Easy)\1822. Sign of the Product of an Array (Easy).csproj", "{AE8280CB-1977-4502-BAAF-156F2DB3624C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1502. Can Make Arithmetic Progression From Sequence (Easy)", "1502. Can Make Arithmetic Progression From Sequence (Easy)\1502. Can Make Arithmetic Progression From Sequence (Easy).csproj", "{8627F03F-5155-4C6F-AFEF-C92FC073F7B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1502. Can Make Arithmetic Progression From Sequence (Easy)", "1502. Can Make Arithmetic Progression From Sequence (Easy)\1502. Can Make Arithmetic Progression From Sequence (Easy).csproj", "{8627F03F-5155-4C6F-AFEF-C92FC073F7B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1790. Check if One String Swap Can Make Strings Equal (Easy)", "1790. Check if One String Swap Can Make Strings Equal (Easy)\1790. Check if One String Swap Can Make Strings Equal (Easy).csproj", "{4963EB9E-7075-43C3-BC01-172F2ADC505C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1790. Check if One String Swap Can Make Strings Equal (Easy)", "1790. Check if One String Swap Can Make Strings Equal (Easy)\1790. Check if One String Swap Can Make Strings Equal (Easy).csproj", "{4963EB9E-7075-43C3-BC01-172F2ADC505C}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0350. Intersection of Two Arrays II (Easy)", "0350. Intersection of Two Arrays II (Easy)\0350. Intersection of Two Arrays II (Easy).csproj", "{94753534-AE42-4D52-B49B-B601A082E835}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0350. Intersection of Two Arrays II (Easy)", "0350. Intersection of Two Arrays II (Easy)\0350. Intersection of Two Arrays II (Easy).csproj", "{94753534-AE42-4D52-B49B-B601A082E835}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0011. Container With Most Water (Med)", "0011. Container With Most Water (Med)\0011. Container With Most Water (Med).csproj", "{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0011. Container With Most Water (Med)", "0011. Container With Most Water (Med)\0011. Container With Most Water (Med).csproj", "{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0015. 3Sum (Med)", "0015. 3Sum (Med)\0015. 3Sum (Med).csproj", "{923B735F-F5D8-4A4C-B68D-D1E52139C5EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0589. N-ary Tree Preorder Traversal (Easy)", "0589. N-ary Tree Preorder Traversal (Easy)\0589. N-ary Tree Preorder Traversal (Easy).csproj", "{40905E9E-6430-439A-9F59-EDAF1685F4EA}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -399,6 +403,14 @@ Global
 		{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{24EFF7CE-8FA4-4CCA-B268-33141AD29E21}.Release|Any CPU.Build.0 = Release|Any CPU
+		{923B735F-F5D8-4A4C-B68D-D1E52139C5EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{923B735F-F5D8-4A4C-B68D-D1E52139C5EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{923B735F-F5D8-4A4C-B68D-D1E52139C5EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{923B735F-F5D8-4A4C-B68D-D1E52139C5EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{40905E9E-6430-439A-9F59-EDAF1685F4EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{40905E9E-6430-439A-9F59-EDAF1685F4EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{40905E9E-6430-439A-9F59-EDAF1685F4EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{40905E9E-6430-439A-9F59-EDAF1685F4EA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
