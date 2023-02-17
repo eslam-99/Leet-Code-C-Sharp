@@ -135,13 +135,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0011. Container With Most W
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0015. 3Sum (Med)", "0015. 3Sum (Med)\0015. 3Sum (Med).csproj", "{923B735F-F5D8-4A4C-B68D-D1E52139C5EE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0589. N-ary Tree Preorder Traversal (Easy)", "0589. N-ary Tree Preorder Traversal (Easy)\0589. N-ary Tree Preorder Traversal (Easy).csproj", "{40905E9E-6430-439A-9F59-EDAF1685F4EA}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0589. N-ary Tree Preorder Traversal (Easy)", "0589. N-ary Tree Preorder Traversal (Easy)\0589. N-ary Tree Preorder Traversal (Easy).csproj", "{40905E9E-6430-439A-9F59-EDAF1685F4EA}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0496. Next Greater Element I (Easy)", "0496. Next Greater Element I (Easy)\0496. Next Greater Element I (Easy).csproj", "{443C013A-7A81-4863-9577-B6AA1931159B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0496. Next Greater Element I (Easy)", "0496. Next Greater Element I (Easy)\0496. Next Greater Element I (Easy).csproj", "{443C013A-7A81-4863-9577-B6AA1931159B}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1232. Check If It Is a Straight Line (Easy)", "1232. Check If It Is a Straight Line (Easy)\1232. Check If It Is a Straight Line (Easy).csproj", "{CE3096DC-F6F6-4AC4-B3F3-EAFF42E1E28A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1232. Check If It Is a Straight Line (Easy)", "1232. Check If It Is a Straight Line (Easy)\1232. Check If It Is a Straight Line (Easy).csproj", "{CE3096DC-F6F6-4AC4-B3F3-EAFF42E1E28A}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0566. Reshape the Matrix (Easy)", "0566. Reshape the Matrix (Easy)\0566. Reshape the Matrix (Easy).csproj", "{9743EDA3-B182-4F5C-8E58-F94A245AB784}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0566. Reshape the Matrix (Easy)", "0566. Reshape the Matrix (Easy)\0566. Reshape the Matrix (Easy).csproj", "{9743EDA3-B182-4F5C-8E58-F94A245AB784}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0783. Minimum Distance Between BST Nodes (Easy)", "0783. Minimum Distance Between BST Nodes (Easy)\0783. Minimum Distance Between BST Nodes (Easy).csproj", "{27C0A828-17F8-4B45-9D73-D0FFB68856EE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1588. Sum of All Odd Length Subarrays (Easy)", "1588. Sum of All Odd Length Subarrays (Easy)\1588. Sum of All Odd Length Subarrays (Easy).csproj", "{27440FC9-221E-4C03-844B-4995ED0A1F31}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -429,6 +433,14 @@ Global
 		{9743EDA3-B182-4F5C-8E58-F94A245AB784}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{9743EDA3-B182-4F5C-8E58-F94A245AB784}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{9743EDA3-B182-4F5C-8E58-F94A245AB784}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27C0A828-17F8-4B45-9D73-D0FFB68856EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27C0A828-17F8-4B45-9D73-D0FFB68856EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27C0A828-17F8-4B45-9D73-D0FFB68856EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27C0A828-17F8-4B45-9D73-D0FFB68856EE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27440FC9-221E-4C03-844B-4995ED0A1F31}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27440FC9-221E-4C03-844B-4995ED0A1F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27440FC9-221E-4C03-844B-4995ED0A1F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27440FC9-221E-4C03-844B-4995ED0A1F31}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
