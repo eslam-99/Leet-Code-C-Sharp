@@ -25,8 +25,8 @@ public class Solution
 
     private bool CheckValidNum(int i, int j)
     {
-        int x1 = i % 9, y1 = (i - i % 9) / 9;
-        int x2 = j % 9, y2 = (j - j % 9) / 9;
+        int x1 = i % 9, y1 = i / 9;
+        int x2 = j % 9, y2 = j / 9;
         if (x1 == x2 || y1 == y2 || (x1 / 3 == x2 / 3 && y1 / 3 == y2 / 3)) return false;
         return true;
     }
