@@ -147,6 +147,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0783. Minimum Distance Betw
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1588. Sum of All Odd Length Subarrays (Easy)", "1588. Sum of All Odd Length Subarrays (Easy)\1588. Sum of All Odd Length Subarrays (Easy).csproj", "{27440FC9-221E-4C03-844B-4995ED0A1F31}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0283. Move Zeroes (Easy)", "0283. Move Zeroes (Easy)\0283. Move Zeroes (Easy).csproj", "{698B77E7-FE8B-41C2-89D9-82CCD4BFAFD0}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -441,6 +443,10 @@ Global
 		{27440FC9-221E-4C03-844B-4995ED0A1F31}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{27440FC9-221E-4C03-844B-4995ED0A1F31}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{27440FC9-221E-4C03-844B-4995ED0A1F31}.Release|Any CPU.Build.0 = Release|Any CPU
+		{698B77E7-FE8B-41C2-89D9-82CCD4BFAFD0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{698B77E7-FE8B-41C2-89D9-82CCD4BFAFD0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{698B77E7-FE8B-41C2-89D9-82CCD4BFAFD0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{698B77E7-FE8B-41C2-89D9-82CCD4BFAFD0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
