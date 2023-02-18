@@ -161,6 +161,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0387. First Unique Characte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0383. Ransom Note (Easy)", "0383. Ransom Note (Easy)\0383. Ransom Note (Easy).csproj", "{CC8624F6-41F1-4D6B-87F3-10E87F337E23}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0242. Valid Anagram (Easy)", "0242. Valid Anagram (Easy)\0242. Valid Anagram (Easy).csproj", "{D03435A4-4796-4251-87E3-D039529D8836}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -483,6 +485,10 @@ Global
 		{CC8624F6-41F1-4D6B-87F3-10E87F337E23}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{CC8624F6-41F1-4D6B-87F3-10E87F337E23}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{CC8624F6-41F1-4D6B-87F3-10E87F337E23}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D03435A4-4796-4251-87E3-D039529D8836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D03435A4-4796-4251-87E3-D039529D8836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D03435A4-4796-4251-87E3-D039529D8836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D03435A4-4796-4251-87E3-D039529D8836}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
