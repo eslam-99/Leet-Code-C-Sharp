@@ -163,6 +163,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0383. Ransom Note (Easy)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0242. Valid Anagram (Easy)", "0242. Valid Anagram (Easy)\0242. Valid Anagram (Easy).csproj", "{D03435A4-4796-4251-87E3-D039529D8836}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2563. Count the Number of Fair Pairs (Med)", "2563. Count the Number of Fair Pairs (Med)\2563. Count the Number of Fair Pairs (Med).csproj", "{27713975-5770-4FC3-9048-1B1F6496A7BE}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -489,6 +491,10 @@ Global
 		{D03435A4-4796-4251-87E3-D039529D8836}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D03435A4-4796-4251-87E3-D039529D8836}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D03435A4-4796-4251-87E3-D039529D8836}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27713975-5770-4FC3-9048-1B1F6496A7BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27713975-5770-4FC3-9048-1B1F6496A7BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27713975-5770-4FC3-9048-1B1F6496A7BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27713975-5770-4FC3-9048-1B1F6496A7BE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
