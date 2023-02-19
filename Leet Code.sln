@@ -169,6 +169,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0103. Binary Tree Zigzag Le
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1768. Merge Strings Alternately (Easy)", "1768. Merge Strings Alternately (Easy)\1768. Merge Strings Alternately (Easy).csproj", "{EF398A8C-92E7-4C36-A519-476B4123BD2C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1678. Goal Parser Interpretation (Easy)", "1678. Goal Parser Interpretation (Easy)\1678. Goal Parser Interpretation (Easy).csproj", "{A96239A3-D672-4011-898A-38DB9B0D47ED}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -507,6 +509,10 @@ Global
 		{EF398A8C-92E7-4C36-A519-476B4123BD2C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EF398A8C-92E7-4C36-A519-476B4123BD2C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EF398A8C-92E7-4C36-A519-476B4123BD2C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96239A3-D672-4011-898A-38DB9B0D47ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96239A3-D672-4011-898A-38DB9B0D47ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96239A3-D672-4011-898A-38DB9B0D47ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96239A3-D672-4011-898A-38DB9B0D47ED}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
