@@ -1,14 +1,14 @@
-﻿using System;
-
-internal partial class Program
+﻿public class Solution
 {
-    public class Solution
+    public int SearchInsert(int[] nums, int target)
     {
-        public int SearchInsert(int[] nums, int target)
+        int left = 0, right = nums.Length;
+        while (left < right)
         {
-            int foundPos = Array.BinarySearch(nums, target);
-            if (foundPos < 0) return ~foundPos;
-            return foundPos;
+            int mid = (left + right) / 2;
+            if (nums[mid] >= target) right = mid;
+            else left = mid + 1;
         }
+        return left;
     }
 }
