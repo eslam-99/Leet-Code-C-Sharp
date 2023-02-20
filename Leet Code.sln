@@ -177,6 +177,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0709. To Lower Case (Easy)"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1309. Decrypt String from Alphabet to Integer Mapping (Easy)", "1309. Decrypt String from Alphabet to Integer Mapping (Easy)\1309. Decrypt String from Alphabet to Integer Mapping (Easy).csproj", "{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0953. Verifying an Alien Dictionary (Easy)", "0953. Verifying an Alien Dictionary (Easy)\0953. Verifying an Alien Dictionary (Easy).csproj", "{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -531,6 +533,10 @@ Global
 		{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
