@@ -175,6 +175,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0389. Find the Difference (
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0709. To Lower Case (Easy)", "0709. To Lower Case (Easy)\0709. To Lower Case (Easy).csproj", "{B14CE0C7-E464-46E4-B30C-C7EB0F7577EB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1309. Decrypt String from Alphabet to Integer Mapping (Easy)", "1309. Decrypt String from Alphabet to Integer Mapping (Easy)\1309. Decrypt String from Alphabet to Integer Mapping (Easy).csproj", "{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -525,6 +527,10 @@ Global
 		{B14CE0C7-E464-46E4-B30C-C7EB0F7577EB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B14CE0C7-E464-46E4-B30C-C7EB0F7577EB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B14CE0C7-E464-46E4-B30C-C7EB0F7577EB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4620C1C8-8669-43C0-9BAC-DD0F692FCCE1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
