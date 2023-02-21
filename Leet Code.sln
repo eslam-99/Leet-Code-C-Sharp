@@ -179,6 +179,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1309. Decrypt String from A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0953. Verifying an Alien Dictionary (Easy)", "0953. Verifying an Alien Dictionary (Easy)\0953. Verifying an Alien Dictionary (Easy).csproj", "{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0876. Middle of the Linked List (Easy)", "0876. Middle of the Linked List (Easy)\0876. Middle of the Linked List (Easy).csproj", "{F7AFBFD5-10DE-4E39-A95A-A7F3BFE1B2C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -537,6 +539,10 @@ Global
 		{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C1B48D44-71D7-4AD3-B25B-DD4AC06CEC7E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7AFBFD5-10DE-4E39-A95A-A7F3BFE1B2C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7AFBFD5-10DE-4E39-A95A-A7F3BFE1B2C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7AFBFD5-10DE-4E39-A95A-A7F3BFE1B2C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7AFBFD5-10DE-4E39-A95A-A7F3BFE1B2C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
