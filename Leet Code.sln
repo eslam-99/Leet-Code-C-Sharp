@@ -199,6 +199,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0303. Range Sum Query - Imm
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0102. Binary Tree Level Order Traversal (Med)", "0102. Binary Tree Level Order Traversal (Med)\0102. Binary Tree Level Order Traversal (Med).csproj", "{C9EB44BB-B4EE-43FC-BF02-AC5C04BADBDF}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0502. IPO (Hard)", "0502. IPO (Hard)\0502. IPO (Hard).csproj", "{F0EDC357-F31F-432F-A0F1-45E1DDD34D67}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -597,6 +599,10 @@ Global
 		{C9EB44BB-B4EE-43FC-BF02-AC5C04BADBDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C9EB44BB-B4EE-43FC-BF02-AC5C04BADBDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C9EB44BB-B4EE-43FC-BF02-AC5C04BADBDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F0EDC357-F31F-432F-A0F1-45E1DDD34D67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F0EDC357-F31F-432F-A0F1-45E1DDD34D67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F0EDC357-F31F-432F-A0F1-45E1DDD34D67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F0EDC357-F31F-432F-A0F1-45E1DDD34D67}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
