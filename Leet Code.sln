@@ -207,6 +207,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0278. First Bad Version (Ea
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1675. Minimize Deviation in Array (Hard)", "1675. Minimize Deviation in Array (Hard)\1675. Minimize Deviation in Array (Hard).csproj", "{57878879-8C31-45C9-8653-9289B5C1689D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0700. Search in a Binary Search Tree (Easy)", "0700. Search in a Binary Search Tree (Easy)\0700. Search in a Binary Search Tree (Easy).csproj", "{5CBDCB8A-05F6-4DD7-9BC0-8A33311F0E96}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -621,6 +623,10 @@ Global
 		{57878879-8C31-45C9-8653-9289B5C1689D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{57878879-8C31-45C9-8653-9289B5C1689D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{57878879-8C31-45C9-8653-9289B5C1689D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5CBDCB8A-05F6-4DD7-9BC0-8A33311F0E96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5CBDCB8A-05F6-4DD7-9BC0-8A33311F0E96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5CBDCB8A-05F6-4DD7-9BC0-8A33311F0E96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5CBDCB8A-05F6-4DD7-9BC0-8A33311F0E96}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
