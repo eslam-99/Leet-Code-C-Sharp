@@ -217,6 +217,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0189. Rotate Array (Med)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0098. Validate Binary Search Tree (Med)", "0098. Validate Binary Search Tree (Med)\0098. Validate Binary Search Tree (Med).csproj", "{534FD9B9-F1F4-4B84-8228-DE454B00817F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0653. Two Sum IV - Input is a BST (Easy)", "0653. Two Sum IV - Input is a BST (Easy)\0653. Two Sum IV - Input is a BST (Easy).csproj", "{E33B0F81-E905-4077-A986-7C5068D4AE78}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -651,6 +653,10 @@ Global
 		{534FD9B9-F1F4-4B84-8228-DE454B00817F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{534FD9B9-F1F4-4B84-8228-DE454B00817F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{534FD9B9-F1F4-4B84-8228-DE454B00817F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E33B0F81-E905-4077-A986-7C5068D4AE78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E33B0F81-E905-4077-A986-7C5068D4AE78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E33B0F81-E905-4077-A986-7C5068D4AE78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E33B0F81-E905-4077-A986-7C5068D4AE78}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
