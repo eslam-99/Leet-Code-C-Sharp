@@ -221,6 +221,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0653. Two Sum IV - Input is
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0235. Lowest Common Ancestor of a Binary Search Tree (Med)", "0235. Lowest Common Ancestor of a Binary Search Tree (Med)\0235. Lowest Common Ancestor of a Binary Search Tree (Med).csproj", "{B7043678-27FA-433E-BE4D-2EE20B0850CC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0167. Two Sum II - Input Array Is Sorted (Med)", "0167. Two Sum II - Input Array Is Sorted (Med)\0167. Two Sum II - Input Array Is Sorted (Med).csproj", "{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -663,6 +665,10 @@ Global
 		{B7043678-27FA-433E-BE4D-2EE20B0850CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B7043678-27FA-433E-BE4D-2EE20B0850CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B7043678-27FA-433E-BE4D-2EE20B0850CC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
