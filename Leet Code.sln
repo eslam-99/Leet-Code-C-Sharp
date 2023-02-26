@@ -215,6 +215,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0977. Squares of a Sorted A
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0189. Rotate Array (Med)", "0189. Rotate Array (Med)\0189. Rotate Array (Med).csproj", "{66378B62-47AA-4ECF-A741-D322B807BF07}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0098. Validate Binary Search Tree (Med)", "0098. Validate Binary Search Tree (Med)\0098. Validate Binary Search Tree (Med).csproj", "{534FD9B9-F1F4-4B84-8228-DE454B00817F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -645,6 +647,10 @@ Global
 		{66378B62-47AA-4ECF-A741-D322B807BF07}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{66378B62-47AA-4ECF-A741-D322B807BF07}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{66378B62-47AA-4ECF-A741-D322B807BF07}.Release|Any CPU.Build.0 = Release|Any CPU
+		{534FD9B9-F1F4-4B84-8228-DE454B00817F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{534FD9B9-F1F4-4B84-8228-DE454B00817F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{534FD9B9-F1F4-4B84-8228-DE454B00817F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{534FD9B9-F1F4-4B84-8228-DE454B00817F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
