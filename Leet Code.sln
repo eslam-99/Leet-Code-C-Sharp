@@ -223,6 +223,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0235. Lowest Common Ancesto
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0167. Two Sum II - Input Array Is Sorted (Med)", "0167. Two Sum II - Input Array Is Sorted (Med)\0167. Two Sum II - Input Array Is Sorted (Med).csproj", "{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0344. Reverse String (Esay)", "0344. Reverse String (Esay)\0344. Reverse String (Esay).csproj", "{6D1868AE-9FCD-47C2-B6BE-5253273F4EAF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -669,6 +671,10 @@ Global
 		{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{871D0331-7320-4476-AAD9-F2AD2CEC1E8E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D1868AE-9FCD-47C2-B6BE-5253273F4EAF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D1868AE-9FCD-47C2-B6BE-5253273F4EAF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D1868AE-9FCD-47C2-B6BE-5253273F4EAF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D1868AE-9FCD-47C2-B6BE-5253273F4EAF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
