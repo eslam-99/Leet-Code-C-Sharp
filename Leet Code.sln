@@ -229,6 +229,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0557. Reverse Words in a St
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0002. Add Two Numbers (Med)", "0002. Add Two Numbers (Med)\0002. Add Two Numbers (Med).csproj", "{EAA8CE50-1CFA-4B70-967A-AADB2CA321DC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0003. Longest Substring Without Repeating Characters (Med)", "0003. Longest Substring Without Repeating Characters (Med)\0003. Longest Substring Without Repeating Characters (Med).csproj", "{0442FEFD-B0EB-45CB-A2F7-9F1A16723052}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -687,6 +689,10 @@ Global
 		{EAA8CE50-1CFA-4B70-967A-AADB2CA321DC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EAA8CE50-1CFA-4B70-967A-AADB2CA321DC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EAA8CE50-1CFA-4B70-967A-AADB2CA321DC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0442FEFD-B0EB-45CB-A2F7-9F1A16723052}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0442FEFD-B0EB-45CB-A2F7-9F1A16723052}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0442FEFD-B0EB-45CB-A2F7-9F1A16723052}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0442FEFD-B0EB-45CB-A2F7-9F1A16723052}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
