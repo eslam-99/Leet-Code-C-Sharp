@@ -235,6 +235,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0019. Remove Nth Node From 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0567. Permutation in String (Med)", "0567. Permutation in String (Med)\0567. Permutation in String (Med).csproj", "{6D1EB47D-2E01-4091-B256-F3A7C8824147}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0912. Sort an Array (Med)", "0912. Sort an Array (Med)\0912. Sort an Array (Med).csproj", "{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -705,6 +707,10 @@ Global
 		{6D1EB47D-2E01-4091-B256-F3A7C8824147}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6D1EB47D-2E01-4091-B256-F3A7C8824147}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6D1EB47D-2E01-4091-B256-F3A7C8824147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
