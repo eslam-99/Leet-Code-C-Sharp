@@ -237,6 +237,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0567. Permutation in String
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0912. Sort an Array (Med)", "0912. Sort an Array (Med)\0912. Sort an Array (Med).csproj", "{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0733. Flood Fill (Easy)", "0733. Flood Fill (Easy)\0733. Flood Fill (Easy).csproj", "{80251C35-E6A2-43A8-9A6A-561C022F2238}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -711,6 +713,10 @@ Global
 		{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E4D7B5BF-E5C3-40F6-8BA0-F7B64074A2AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{80251C35-E6A2-43A8-9A6A-561C022F2238}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80251C35-E6A2-43A8-9A6A-561C022F2238}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80251C35-E6A2-43A8-9A6A-561C022F2238}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80251C35-E6A2-43A8-9A6A-561C022F2238}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
