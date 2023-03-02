@@ -239,6 +239,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0912. Sort an Array (Med)",
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0733. Flood Fill (Easy)", "0733. Flood Fill (Easy)\0733. Flood Fill (Easy).csproj", "{80251C35-E6A2-43A8-9A6A-561C022F2238}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0695. Max Area of Island (Med)", "0695. Max Area of Island (Med)\0695. Max Area of Island (Med).csproj", "{01E786F1-3A37-428F-8CDE-0189E417AA59}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -717,6 +719,10 @@ Global
 		{80251C35-E6A2-43A8-9A6A-561C022F2238}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80251C35-E6A2-43A8-9A6A-561C022F2238}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80251C35-E6A2-43A8-9A6A-561C022F2238}.Release|Any CPU.Build.0 = Release|Any CPU
+		{01E786F1-3A37-428F-8CDE-0189E417AA59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{01E786F1-3A37-428F-8CDE-0189E417AA59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{01E786F1-3A37-428F-8CDE-0189E417AA59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{01E786F1-3A37-428F-8CDE-0189E417AA59}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
