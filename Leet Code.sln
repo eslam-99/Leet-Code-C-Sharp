@@ -245,6 +245,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0443. String Compression (M
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0617. Merge Two Binary Trees (Easy)", "0617. Merge Two Binary Trees (Easy)\0617. Merge Two Binary Trees (Easy).csproj", "{7CB136CE-3F71-47EC-834E-19B1BBB8E166}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0116. Populating Next Right Pointers in Each Node (Med)", "0116. Populating Next Right Pointers in Each Node (Med)\0116. Populating Next Right Pointers in Each Node (Med).csproj", "{EA42A050-0807-4931-9458-7E45A3E8BF73}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -735,6 +737,10 @@ Global
 		{7CB136CE-3F71-47EC-834E-19B1BBB8E166}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7CB136CE-3F71-47EC-834E-19B1BBB8E166}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7CB136CE-3F71-47EC-834E-19B1BBB8E166}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA42A050-0807-4931-9458-7E45A3E8BF73}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA42A050-0807-4931-9458-7E45A3E8BF73}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA42A050-0807-4931-9458-7E45A3E8BF73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA42A050-0807-4931-9458-7E45A3E8BF73}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
