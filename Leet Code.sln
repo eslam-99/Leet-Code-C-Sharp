@@ -241,7 +241,9 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0733. Flood Fill (Easy)", "
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0695. Max Area of Island (Med)", "0695. Max Area of Island (Med)\0695. Max Area of Island (Med).csproj", "{01E786F1-3A37-428F-8CDE-0189E417AA59}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0443. String Compression (Med)", "0443. String Compression (Med)\0443. String Compression (Med).csproj", "{90EB5F33-107E-4C93-892D-AB8BF65A2799}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "0443. String Compression (Med)", "0443. String Compression (Med)\0443. String Compression (Med).csproj", "{90EB5F33-107E-4C93-892D-AB8BF65A2799}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0617. Merge Two Binary Trees (Easy)", "0617. Merge Two Binary Trees (Easy)\0617. Merge Two Binary Trees (Easy).csproj", "{7CB136CE-3F71-47EC-834E-19B1BBB8E166}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -729,6 +731,10 @@ Global
 		{90EB5F33-107E-4C93-892D-AB8BF65A2799}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{90EB5F33-107E-4C93-892D-AB8BF65A2799}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{90EB5F33-107E-4C93-892D-AB8BF65A2799}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7CB136CE-3F71-47EC-834E-19B1BBB8E166}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7CB136CE-3F71-47EC-834E-19B1BBB8E166}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7CB136CE-3F71-47EC-834E-19B1BBB8E166}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7CB136CE-3F71-47EC-834E-19B1BBB8E166}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
