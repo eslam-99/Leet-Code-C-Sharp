@@ -249,6 +249,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0116. Populating Next Right
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0028. Find the Index of the First Occurrence in a String (Med)", "0028. Find the Index of the First Occurrence in a String (Med)\0028. Find the Index of the First Occurrence in a String (Med).csproj", "{1F16C932-7E81-4584-85B5-9987EA395945}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0542. 01 Matrix (Med)", "0542. 01 Matrix (Med)\0542. 01 Matrix (Med).csproj", "{FC758952-53F5-4096-A251-12EAF69B56DB}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -747,6 +749,10 @@ Global
 		{1F16C932-7E81-4584-85B5-9987EA395945}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F16C932-7E81-4584-85B5-9987EA395945}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F16C932-7E81-4584-85B5-9987EA395945}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC758952-53F5-4096-A251-12EAF69B56DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC758952-53F5-4096-A251-12EAF69B56DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC758952-53F5-4096-A251-12EAF69B56DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC758952-53F5-4096-A251-12EAF69B56DB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
