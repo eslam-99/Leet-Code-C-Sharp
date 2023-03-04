@@ -251,6 +251,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0028. Find the Index of the
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0542. 01 Matrix (Med)", "0542. 01 Matrix (Med)\0542. 01 Matrix (Med).csproj", "{FC758952-53F5-4096-A251-12EAF69B56DB}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0994. Rotting Oranges (Med)", "0994. Rotting Oranges (Med)\0994. Rotting Oranges (Med).csproj", "{5FFF88FB-9486-47AA-9BF0-A977E0E37B2E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -753,6 +755,10 @@ Global
 		{FC758952-53F5-4096-A251-12EAF69B56DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{FC758952-53F5-4096-A251-12EAF69B56DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{FC758952-53F5-4096-A251-12EAF69B56DB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5FFF88FB-9486-47AA-9BF0-A977E0E37B2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FFF88FB-9486-47AA-9BF0-A977E0E37B2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FFF88FB-9486-47AA-9BF0-A977E0E37B2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FFF88FB-9486-47AA-9BF0-A977E0E37B2E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
