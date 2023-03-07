@@ -263,6 +263,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0198. House Robber (Med)", 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0120. Triangle (Med)", "0120. Triangle (Med)\0120. Triangle (Med).csproj", "{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2187. Minimum Time to Complete Trips (Med)", "2187. Minimum Time to Complete Trips (Med)\2187. Minimum Time to Complete Trips (Med).csproj", "{F3FCE4B4-BD8B-4993-B71D-284F125B64D9}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -789,6 +791,10 @@ Global
 		{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3FCE4B4-BD8B-4993-B71D-284F125B64D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3FCE4B4-BD8B-4993-B71D-284F125B64D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3FCE4B4-BD8B-4993-B71D-284F125B64D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3FCE4B4-BD8B-4993-B71D-284F125B64D9}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
