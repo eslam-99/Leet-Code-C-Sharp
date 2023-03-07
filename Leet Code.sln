@@ -261,6 +261,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0784. Letter Case Permutati
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0198. House Robber (Med)", "0198. House Robber (Med)\0198. House Robber (Med).csproj", "{842D8839-58A8-455F-BAC4-F92794342FFC}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0120. Triangle (Med)", "0120. Triangle (Med)\0120. Triangle (Med).csproj", "{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -783,6 +785,10 @@ Global
 		{842D8839-58A8-455F-BAC4-F92794342FFC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{842D8839-58A8-455F-BAC4-F92794342FFC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{842D8839-58A8-455F-BAC4-F92794342FFC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F53F4C88-EDA1-4DEC-905B-D3A73D87AD3E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
