@@ -271,6 +271,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0875. Koko Eating Bananas (
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0142. Linked List Cycle II (Med)", "0142. Linked List Cycle II (Med)\0142. Linked List Cycle II (Med).csproj", "{88100778-2F21-4D03-B292-9F23365F082C}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "0023. Merge k Sorted Lists (Hard)", "0023. Merge k Sorted Lists (Hard)\0023. Merge k Sorted Lists (Hard).csproj", "{1499C718-2002-4F62-B34B-0991A8E320A7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -813,6 +815,10 @@ Global
 		{88100778-2F21-4D03-B292-9F23365F082C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{88100778-2F21-4D03-B292-9F23365F082C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{88100778-2F21-4D03-B292-9F23365F082C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1499C718-2002-4F62-B34B-0991A8E320A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1499C718-2002-4F62-B34B-0991A8E320A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1499C718-2002-4F62-B34B-0991A8E320A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1499C718-2002-4F62-B34B-0991A8E320A7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
